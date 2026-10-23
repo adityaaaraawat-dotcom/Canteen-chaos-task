@@ -5,7 +5,7 @@ dishes to a cart, apply coupons, pick a collection time and place an
 order. Staff watch the queue on a counter dashboard and move orders
 along.
 
-It works — mostly. Some things in it are broken, and your job is to
+It works mostly. Some things in it are broken, and your job is to
 find and fix the ones you are given.
 
 
@@ -21,7 +21,7 @@ npm start
 Open http://localhost:3000. The server serves the frontend too, so that
 is the only command you need.
 
-The canteen has opening hours (7:00 AM – 10:00 PM) and meal slots, so
+The canteen has opening hours (7:00 AM ,- 10:00 PM) and meal slots, so
 outside those hours most dishes show as "not served now". If you are
 working late:
 
@@ -73,7 +73,7 @@ git checkout -- backend/data/
 
 ## Your task
 
-You will be given a **bug log** — a list of specific problems reported
+You will be given a **bug log** - a list of specific problems reported
 in this app. Each one describes what a person saw, not where the
 problem is. Finding that is the task.
 
@@ -97,7 +97,7 @@ counts for nothing.
 
 ## Brownie points
 
-Not required, and not needed to clear the task — but they count.
+Not required, and not needed to clear the task but they count.
 
 - **Bugs nobody reported.** There are problems in this app that are not
   in your bug log. Find one, prove it, and write it up the same way.
@@ -108,7 +108,7 @@ Not required, and not needed to clear the task — but they count.
   you are unsure about, explained clearly. This scores better than
   silence.
 
-One rule: a brownie-point fix must not break anything else. If it does,
+One rule: a brownie point fix must not break anything else. If it does,
 it costs you rather than earns you.
 
 
@@ -127,4 +127,4 @@ it costs you rather than earns you.
   correct it looks.
 
 Stuck for more than an hour on one thing? Ask in the group. Asking is
-not a penalty — it is what you would do on a real team.
+not a penalty it is what you would do on a real team.
